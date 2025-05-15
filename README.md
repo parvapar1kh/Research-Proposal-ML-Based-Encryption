@@ -48,7 +48,7 @@ Together, these findings suggest a shift in encryption’s role — from passive
 
 ## Files in This Repository
 
-- `Full-Research-Proposal.pdf`: A formal proposal integrating the literature review with methodology, goals, and future applications
+- `Research Proposal ML-Based Encryption`: A formal proposal integrating the literature review with methodology, goals, and future applications
 
 ---
 
