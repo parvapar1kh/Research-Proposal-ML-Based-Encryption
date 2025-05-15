@@ -48,7 +48,6 @@ Together, these findings suggest a shift in encryption’s role — from passive
 
 ## Files in This Repository
 
-- `Selective-Literature-Review.pdf`: A detailed synthesis of six scholarly sources organized by topic
 - `Full-Research-Proposal.pdf`: A formal proposal integrating the literature review with methodology, goals, and future applications
 
 ---
